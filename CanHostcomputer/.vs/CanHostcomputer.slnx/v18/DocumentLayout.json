@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\CanHostcomputer\\CanHostcomputer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2163EC88-8EA2-D797-E4ED-EC3A9FCAD5F9}|CanHostcomputer.csproj|e:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\canhostcomputer\\canhostcomputer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2163EC88-8EA2-D797-E4ED-EC3A9FCAD5F9}|CanHostcomputer.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2163EC88-8EA2-D797-E4ED-EC3A9FCAD5F9}|CanHostcomputer.csproj|e:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\canhostcomputer\\canhostcomputer\\.github\\copilot-instructions.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{2163EC88-8EA2-D797-E4ED-EC3A9FCAD5F9}|CanHostcomputer.csproj|solutionrelative:.github\\copilot-instructions.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2163EC88-8EA2-D797-E4ED-EC3A9FCAD5F9}|CanHostcomputer.csproj|e:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\canhostcomputer\\canhostcomputer\\kvasercanadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2163EC88-8EA2-D797-E4ED-EC3A9FCAD5F9}|CanHostcomputer.csproj|solutionrelative:kvasercanadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2163EC88-8EA2-D797-E4ED-EC3A9FCAD5F9}|CanHostcomputer.csproj|e:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\canhostcomputer\\canhostcomputer\\form1.canintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2163EC88-8EA2-D797-E4ED-EC3A9FCAD5F9}|CanHostcomputer.csproj|solutionrelative:form1.canintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2163EC88-8EA2-D797-E4ED-EC3A9FCAD5F9}|CanHostcomputer.csproj|e:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\canhostcomputer\\canhostcomputer\\canadapterfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2163EC88-8EA2-D797-E4ED-EC3A9FCAD5F9}|CanHostcomputer.csproj|solutionrelative:canadapterfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2163EC88-8EA2-D797-E4ED-EC3A9FCAD5F9}|CanHostcomputer.csproj|e:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\canhostcomputer\\canhostcomputer\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2163EC88-8EA2-D797-E4ED-EC3A9FCAD5F9}|CanHostcomputer.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2163EC88-8EA2-D797-E4ED-EC3A9FCAD5F9}|CanHostcomputer.csproj|e:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\canhostcomputer\\canhostcomputer\\canframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2163EC88-8EA2-D797-E4ED-EC3A9FCAD5F9}|CanHostcomputer.csproj|solutionrelative:canframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2163EC88-8EA2-D797-E4ED-EC3A9FCAD5F9}|CanHostcomputer.csproj|e:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\canhostcomputer\\canhostcomputer\\icanadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2163EC88-8EA2-D797-E4ED-EC3A9FCAD5F9}|CanHostcomputer.csproj|solutionrelative:icanadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2163EC88-8EA2-D797-E4ED-EC3A9FCAD5F9}|CanHostcomputer.csproj|e:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\canhostcomputer\\canhostcomputer\\kvasernativedynamic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2163EC88-8EA2-D797-E4ED-EC3A9FCAD5F9}|CanHostcomputer.csproj|solutionrelative:kvasernativedynamic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2163EC88-8EA2-D797-E4ED-EC3A9FCAD5F9}|CanHostcomputer.csproj|e:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\canhostcomputer\\canhostcomputer\\loopbackcanadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2163EC88-8EA2-D797-E4ED-EC3A9FCAD5F9}|CanHostcomputer.csproj|solutionrelative:loopbackcanadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2163EC88-8EA2-D797-E4ED-EC3A9FCAD5F9}|CanHostcomputer.csproj|e:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\canhostcomputer\\canhostcomputer\\nativeloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2163EC88-8EA2-D797-E4ED-EC3A9FCAD5F9}|CanHostcomputer.csproj|solutionrelative:nativeloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2163EC88-8EA2-D797-E4ED-EC3A9FCAD5F9}|CanHostcomputer.csproj|e:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\canhostcomputer\\canhostcomputer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2163EC88-8EA2-D797-E4ED-EC3A9FCAD5F9}|CanHostcomputer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 261,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\CanHostcomputer\\CanHostcomputer\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\CanHostcomputer\\CanHostcomputer\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAFgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T04:14:04.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "copilot-instructions.md",
+              "DocumentMoniker": "E:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\CanHostcomputer\\CanHostcomputer\\.github\\copilot-instructions.md",
+              "RelativeDocumentMoniker": ".github\\copilot-instructions.md",
+              "ToolTip": "E:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\CanHostcomputer\\CanHostcomputer\\.github\\copilot-instructions.md",
+              "RelativeToolTip": ".github\\copilot-instructions.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-02-01T14:51:53.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KvaserCanAdapter.cs",
+              "DocumentMoniker": "E:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\CanHostcomputer\\CanHostcomputer\\KvaserCanAdapter.cs",
+              "RelativeDocumentMoniker": "KvaserCanAdapter.cs",
+              "ToolTip": "E:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\CanHostcomputer\\CanHostcomputer\\KvaserCanAdapter.cs",
+              "RelativeToolTip": "KvaserCanAdapter.cs",
+              "ViewState": "AgIAAKIBAAAAAAAAAAASwKsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T14:43:22.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CanFrame.cs",
+              "DocumentMoniker": "E:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\CanHostcomputer\\CanHostcomputer\\CanFrame.cs",
+              "RelativeDocumentMoniker": "CanFrame.cs",
+              "ToolTip": "E:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\CanHostcomputer\\CanHostcomputer\\CanFrame.cs",
+              "RelativeToolTip": "CanFrame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T04:17:06.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\CanHostcomputer\\CanHostcomputer\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "E:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\CanHostcomputer\\CanHostcomputer\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAASwIEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T04:14:57.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.CanIntegration.cs",
+              "DocumentMoniker": "E:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\CanHostcomputer\\CanHostcomputer\\Form1.CanIntegration.cs",
+              "RelativeDocumentMoniker": "Form1.CanIntegration.cs",
+              "ToolTip": "E:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\CanHostcomputer\\CanHostcomputer\\Form1.CanIntegration.cs",
+              "RelativeToolTip": "Form1.CanIntegration.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAApwAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T04:17:31.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CanAdapterFactory.cs",
+              "DocumentMoniker": "E:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\CanHostcomputer\\CanHostcomputer\\CanAdapterFactory.cs",
+              "RelativeDocumentMoniker": "CanAdapterFactory.cs",
+              "ToolTip": "E:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\CanHostcomputer\\CanHostcomputer\\CanAdapterFactory.cs",
+              "RelativeToolTip": "CanAdapterFactory.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T04:17:09.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KvaserNativeDynamic.cs",
+              "DocumentMoniker": "E:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\CanHostcomputer\\CanHostcomputer\\KvaserNativeDynamic.cs",
+              "RelativeDocumentMoniker": "KvaserNativeDynamic.cs",
+              "ToolTip": "E:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\CanHostcomputer\\CanHostcomputer\\KvaserNativeDynamic.cs",
+              "RelativeToolTip": "KvaserNativeDynamic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T04:16:53.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICanAdapter.cs",
+              "DocumentMoniker": "E:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\CanHostcomputer\\CanHostcomputer\\ICanAdapter.cs",
+              "RelativeDocumentMoniker": "ICanAdapter.cs",
+              "ToolTip": "E:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\CanHostcomputer\\CanHostcomputer\\ICanAdapter.cs",
+              "RelativeToolTip": "ICanAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T04:16:59.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoopbackCanAdapter.cs",
+              "DocumentMoniker": "E:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\CanHostcomputer\\CanHostcomputer\\LoopbackCanAdapter.cs",
+              "RelativeDocumentMoniker": "LoopbackCanAdapter.cs",
+              "ToolTip": "E:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\CanHostcomputer\\CanHostcomputer\\LoopbackCanAdapter.cs",
+              "RelativeToolTip": "LoopbackCanAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T04:16:50.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NativeLoader.cs",
+              "DocumentMoniker": "E:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\CanHostcomputer\\CanHostcomputer\\NativeLoader.cs",
+              "RelativeDocumentMoniker": "NativeLoader.cs",
+              "ToolTip": "E:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\CanHostcomputer\\CanHostcomputer\\NativeLoader.cs",
+              "RelativeToolTip": "NativeLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T04:16:45.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\CanHostcomputer\\CanHostcomputer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\\u4E0A\u4F4D\u673A\u5F00\u53D1\\CanHostcomputer\\CanHostcomputer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T04:16:27.007Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 47,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 47,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
